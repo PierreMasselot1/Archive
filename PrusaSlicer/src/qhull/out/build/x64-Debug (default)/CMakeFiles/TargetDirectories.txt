@@ -1,0 +1,3 @@
+E:/PrusaSlicer/src/qhull/out/build/x64-Debug (default)/CMakeFiles/qhullstatic.dir
+E:/PrusaSlicer/src/qhull/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+E:/PrusaSlicer/src/qhull/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
